@@ -1,2 +1,2 @@
 # CV
-My first Web Dev project using html only.
+My first Web Dev project using basic html5.
